@@ -11,7 +11,7 @@ While many books and articles talked about various methods, mnemonics (like STRI
 
 I created the ART [ Asset - Risk - Threat ] method of threat modelling as an easy to remember recipe for anyone to start threat modelling.
 
-## Definition
+# Definition
 
 ART stands for ASSET - RISK - THREAT.
 
