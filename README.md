@@ -21,6 +21,12 @@ For example, to use ART with STRIDE, this simple diagram should help:
 
 ![alt text](images/ART_STRIDE_iionescu.png)
 
+# Application
+
+While simple, ART is also powerful, because it keeps the practitioner always anchored on the Asset as the fixed point, while modelling.
+
+
+
 
 
 
