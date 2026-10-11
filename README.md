@@ -20,7 +20,7 @@ It is an asset-centric method of threat modelling and it can be used in isolatio
 For example, to use ART with STRIDE, this simple diagram should help:
 
 <div style="text-align: center;">
-  <img src="./images/ART_STRIDE.gif" alt="Centered image" style="display: block; margin: 0 auto;">
+  <img src="./images/ART_STRIDE.gif" alt="ART and STRIDE" style="display: block; margin: 0 ;width: 300px; height: 200px;"">
 </div>
 
 # Application
